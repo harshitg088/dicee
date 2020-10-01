@@ -1,4 +1,5 @@
-# Dicee
+# Dicee--An amazing project
+
 
 Dicee is a dice game played with two dice, and a lot of luck.
 This is flutter app.
